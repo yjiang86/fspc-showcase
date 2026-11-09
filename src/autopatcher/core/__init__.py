@@ -1,0 +1,1 @@
+"""Core control logic for the autopatcher."""
